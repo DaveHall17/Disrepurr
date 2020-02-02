@@ -7,6 +7,10 @@
 		{
 			"Name": "LevelSlabs",
 			"Enabled": true
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
 		}
 	]
 }
