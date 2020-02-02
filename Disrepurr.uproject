@@ -5,11 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "FMODStudio",
+			"Name": "LevelSlabs",
 			"Enabled": true
 		},
 		{
-			"Name": "LevelSlabs",
+			"Name": "FMODStudio",
 			"Enabled": true
 		}
 	]
